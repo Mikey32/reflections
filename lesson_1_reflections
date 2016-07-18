@@ -1,0 +1,13 @@
+I was able to read the differences in files in close proximity in order to figure out the differences.
+
+I can check changes, and help remember what I was thinking. I can also track productivity.
+
+Mannually choosing a commit gives me control, however, if I am distracted and don't commit for a long time then I could mis out on an auto option.
+
+Software comes in packages while google docs is typically individual files. Things like websites and object oriented programs use multiple files.
+
+git log shows all the history of the changes. git diff shows a comparison of what was changed between the two versions.
+
+I am aware that I can very easily go back to an earlier version of my program.
+
+I want to use git for version control.
