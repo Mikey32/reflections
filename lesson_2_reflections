@@ -1,1 +1,7 @@
-I need to initilize it
+I need to initilize it so to have git begin tracking?
+
+git init
+git add
+git status
+
+Staging area is different from working directory and repository as the repository are the files we've committed and working directory is everything as we are working on it. The staging area is in between and the value it offers is that it allows us to control exactly what we want to committ.
