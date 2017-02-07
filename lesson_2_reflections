@@ -5,3 +5,44 @@ git add
 git status
 
 Staging area is different from working directory and repository as the repository are the files we've committed and working directory is everything as we are working on it. The staging area is in between and the value it offers is that it allows us to control exactly what we want to committ.
+
+git diff with no arguments shows working directory and staging area comparisons.
+
+git diff --staged compares staging area to most recent commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can only add to the staging area the files that relate to one change.
+
+git branch
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches will help when I've made a change that I may want to make a duplicate program with different functionality. It is actually perfect for having a working prototype of my program and wanting to make a modification but having the working prototype to fall back on.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help visualize the branch structure by allowing me to visualize the structure at once. It is the similar to how an entity relational diagram helps me see the meat and potatoes of a database which is much more difficult to conceptualize with just plain text.
+
+git merge
+git show
+
+git branch /d coins
+git checkout <branch>
+
+'q' to exit git diff
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging the branches together allows us to implement the changes from two seperate branches in to one. We represent it on the diagram to help keep track of the history of different commits for each branch.
+
+git log --graph
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+With manual merging one can keep track of all the changes without surprises. Automatic merges can streamline the process but it would be harder to keep track of all the different changes. These changes can be referenced, however, in the diff command.
+
+
+
+
+
