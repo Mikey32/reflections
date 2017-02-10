@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Any time I am on a workstation that does not belong to me I would want to use a remote repository I would think.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a clone of a project that becomes my personal copy. A clone is a duplicate of a project. A branch a copy of the project for the purpose of making a change.
+
