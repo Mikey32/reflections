@@ -13,3 +13,7 @@ The project is ready to be worked on regardless of connection status. The change
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I suspect that allowing users to choose when to be notified of changes can help. This aspect could be easier. There is potential for major changes that might bogged down a project with two many users I would suspect. As with email there are all the problems of formal/ informal written communication as opposed to a telephone call or face to face meeting.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I want to make changes in a seperate branch when I don't want to make changes into the overall project because the changes could affect the functionality of the overall project. I have a feature I want to implement but I still need a testable functional project on the website. I shouldn't do this all the time as it is a process and should probably reserve it for bigger changes. After all I could always revert back to a working commit in order to make a program functional.
